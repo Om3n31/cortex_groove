@@ -1,0 +1,6 @@
+[submodule "cg_back"]
+	path = cg_back
+	url = https://github.com/Om3n31/cg_back.git
+[submodule "cg_front"]
+	path = cg_front
+	url = https://github.com/Om3n31/cg_front.git
