@@ -1,5 +1,8 @@
 # Cortex Groove
 
+## Initialiser les sous-modules
+Pour mettre à jour/initialiser les sous-modules du repo: ```git submodule update --init```
+
 ## Changelog
 CortexGroove est (dans un premier temps) une librairie.
 C'est à dire que les utilisateurs ont des réseaux de neurones, ici appelé UserNeuralNetwork qui représente n'importe quel réseaux - donc la lib que l'utilisateur préfère etc...
