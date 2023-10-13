@@ -6,3 +6,7 @@
 	path = cg_front
 	url = https://github.com/Om3n31/cg_front.git
 	branch = master
+[submodule "cg_engine"]
+	path = cg_front
+	url = https://github.com/Om3n31/cg_engine.git
+	branch = master
